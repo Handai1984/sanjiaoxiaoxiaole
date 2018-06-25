@@ -1,0 +1,41 @@
+{
+  "appKey": "EA6D1184-57DA-B4ED-1354-CADAA866DC70",
+  "appSecret": "5b68787771a9efe49a3f64c7a9c3fd23",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.junetwen",
+  "privateKey": "A2C0E6CFB4D9D2683A0EBDDDDAD59764",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "startScene": "cc123e5c-1f22-4b2d-884d-314c836063c4",
+  "title": "Geometricracer",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "14fcc0aa-0581-46",
+  "zipCompressJs": true
+}
